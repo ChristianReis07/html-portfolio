@@ -1,0 +1,34 @@
+body {
+    background-color: #213555;
+}
+
+h1 {
+    color: #F5EFE7;
+    text-align: center;
+    font-family:"Merriweather", serif;
+}
+
+#header-h2 {
+    color: #F5EFE7;
+    text-align: center;
+    font-family:"Raleway", sans-serif;
+}
+
+.heading-h3 {
+    color: #F5EFE7;
+    text-decoration: none;
+}
+
+.heading-h3:hover {
+    color: #D8C4B6;
+}
+
+.link-footer {
+    color:#F5EFE7 ;
+    text-decoration: none;
+    
+}
+
+.link-footer:hover {
+    color: #D8C4B6;
+}
